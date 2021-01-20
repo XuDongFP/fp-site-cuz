@@ -1,0 +1,136 @@
+######################## default configuration ####################
+baseURL = "https://examplesite.com"
+title = "FuturePlus Academy"
+theme = "CUS2020"
+languageName = "Zh"
+languageCode = "zh-cn"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "futureplus" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = [] # desable language from here
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+
+
+
+############################## Output ###############################
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "author"
+
+############################## navigation ###############################
+
+# main menu
+[[menu.main]]
+name = "主页 | Home"
+URL = "/"
+weight = 1
+
+[[menu.main]]
+name = "关于 | About"
+URL = "about"
+weight = 2
+
+[[menu.main]]
+name = "文章 | Blog"
+URL = "blog"
+weight = 3
+
+# [[menu.main]]
+# name = "Contact"
+# URL = "contact"
+# weight = 4
+
+[[menu.main]]
+name = "Sample Page"
+URL = "sample-page"
+weight = 5
+
+[[menu.main]]
+name = "六维评估 | 6D ASMT"
+URL = "six-dem-asmt"
+weight = 6
+
+# only desktop menu
+[[menu.desktop]]
+name = "联系 | Contact"
+URL = "contact"
+weight = 1
+
+[[menu.desktop]]
+name = "六维评估 | 6D ASMT"
+URL = "six-dem-asmt"
+weight = 2
+
+
+#################### default parameters ################################
+[params]
+# Meta data
+description = "This is meta description"
+author = "FuturePlus"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# banner
+[params.banner]
+heading = "Making Poetic Habita"
+# "诗意栖居的营造学<br>|Making Poetic Habita"
+# image = "images/2020-landscape-1-2.png"
+image = "images/banner-shadows.svg"
+# image = "images/banner-brown.svg"
+# blog
+[params.blog]
+heading = "最新文章 | Latest Posts"
+
+# gallery
+[params.gallery]
+enable = false
+
+[[params.gallery.gallery_item ]]
+image = "images/2020-square-2.png"
+
+[[params.gallery.gallery_item ]]
+image = "images/2020-square-1.png"
+
+# call to action
+[params.call_to_action]
+enable = false
+title = "更多信息请联系我们."
+content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
+button_label = "联系我们"
+button_url = "contact"
+
+
+# footer
+[params.footer]
+address = "深圳市南山区深圳湾科技生态园7栋B座704\n\n7-B704, Shenzhen Bay Eco-Technology Park, Nanshan District, Shenzhen, P.R.China"
+phone = "0755 8653 5194"
+email = "info@futureplus.net.cn"
+copyright = "Copyright &copy; 2021 FuturePlus"
+
+############################# social site ########################
+[params.social]
+# yelp = "#"
+# facebook = "#"
+# twitter = "#"
+# instagram = "#"
+# linkedin = "#"
+
+email = "info@futureplus.net.cn"
+weibo = "#"
+wechat = "#"
