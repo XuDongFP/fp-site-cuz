@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://tender-snyder-b36edd.netlify.app"
+baseURL = "https://tender-snyder-b36edd.netlify.app" #MUST change to actual url, or there will be 403 fail to load
 title = "FuturePlus Academy"
 theme = "CUS2020"
 languageName = "Zh"
