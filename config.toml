@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://tender-snyder-b36edd.netlify.app"
 title = "FuturePlus Academy"
 theme = "CUS2020"
 languageName = "Zh"
