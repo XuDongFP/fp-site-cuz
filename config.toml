@@ -34,17 +34,17 @@ author = "author"
 
 # main menu
 [[menu.main]]
-name = "主页 | Home"
+name = "主页 · Home"
 URL = "/"
 weight = 1
 
 [[menu.main]]
-name = "关于 | About"
+name = "关于 · About"
 URL = "about"
 weight = 2
 
 [[menu.main]]
-name = "文章 | Blog"
+name = "文章 · Blog"
 URL = "blog"
 weight = 3
 
@@ -59,20 +59,25 @@ URL = "sample-page"
 weight = 5
 
 [[menu.main]]
-name = "六维评估 | 6D ASMT"
+name = "六维评估 · 6D ASMT"
 URL = "six-dem-asmt"
 weight = 6
 
 # only desktop menu
 [[menu.desktop]]
-name = "联系 | Contact"
-URL = "contact"
+name = "关于 · About"
+URL = "about"
 weight = 1
 
 [[menu.desktop]]
-name = "六维评估 | 6D ASMT"
-URL = "six-dem-asmt"
+name = "联系 · Contact"
+URL = "contact"
 weight = 2
+
+[[menu.desktop]]
+name = "六维评估 · 6D ASMT"
+URL = "six-dem-asmt"
+weight = 3
 
 
 #################### default parameters ################################
@@ -95,7 +100,7 @@ image = "images/banner-shadows.svg"
 # image = "images/banner-brown.svg"
 # blog
 [params.blog]
-heading = "最新文章 | Latest Posts"
+heading = "最新文章 · Latest Posts"
 
 # gallery
 [params.gallery]
