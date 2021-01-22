@@ -20,21 +20,6 @@
   {{end}}
 
 
-  {{ if .Site.Params.gallery.enable }}
-  {{ with .Site.Params.gallery }}
-  <figure class="wp-block-gallery alignwide columns-2 is-cropped">
-    <ul class="blocks-gallery-grid">
-      {{ range .gallery_item }}
-      <li class="blocks-gallery-item">
-        <figure><img src="{{ .image | absURL }}"/></figure>
-      </li>
-      {{ end }}
-    </ul>
-  </figure>
-  {{ end }}
-  {{ end }}
-
-
   <div class="post-inner thin">
     <div class="entry-content">
       {{ with .Site.Params.blog.heading }}
@@ -61,7 +46,20 @@
         {{ end }}
       </div>
 
-    
+
+      {{ if .Site.Params.gallery.enable }}
+      {{ with .Site.Params.gallery }}
+      <figure class="wp-block-gallery alignwide columns-2 is-cropped">
+        <ul class="blocks-gallery-grid">
+          {{ range .gallery_item }}
+          <li class="blocks-gallery-item">
+            <figure><img src="{{ .image | absURL }}"/></figure>
+          </li>
+          {{ end }}
+        </ul>
+      </figure>
+      {{ end }}
+      {{ end }}
 
 
       {{ if .Site.Params.call_to_action.enable }}
