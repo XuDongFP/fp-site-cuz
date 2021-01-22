@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://tender-snyder-b36edd.netlify.app" #MUST change to actual url, or there will be 403 fail to load
-title = "FuturePlus Academy"
+title = "FuturePlus"
 theme = "CUS2020"
 languageName = "Zh"
 languageCode = "zh-cn"
@@ -96,7 +96,7 @@ expire_days = 2
 heading = "Making Poetic Habita"
 # "诗意栖居的营造学<br>|Making Poetic Habita"
 # image = "images/2020-landscape-1-2.png"
-image = "images/banner-shadows.svg"
+image = "images/banner-shadows-logo.svg"
 # image = "images/banner-brown.svg"
 # blog
 [params.blog]
@@ -137,5 +137,6 @@ copyright = "Copyright &copy; 2021 FuturePlus"
 # linkedin = "#"
 
 email = "info@futureplus.net.cn"
-weibo = "#"
-wechat = "#"
+weibo = "https://weibo.com/u/6346288478?is_all=1"
+wechat = "https://mp.weixin.qq.com/s?__biz=MzIwOTI5MDU4NQ==&mid=2247485317&idx=1&sn=3755407fc194226ee11fecf3f22f1285&chksm=977753b3a000daa5b4572f4a20f656812288ce41931b5f3f5ed994b2378e36fae9c952f0712e&mpshare=1&scene=1&srcid=0122xxlBgjr8FDWKA7sxHvlH&sharer_sharetime=1611287105696&sharer_shareid=41bbf8cd7be1141103cd14443b95a8a1&exportkey=AesKKR0PL3EGysWRa8NyKig%3D&pass_ticket=3dY%2Fcp2cKw%2BD1aRLc%2FfymPC3yg4fF4CJKk3wXcRWsXq0JLlrzmRdApVfS4WvcP24&wx_header=0#rd"
+bilibili = "https://space.bilibili.com/1006754152"
