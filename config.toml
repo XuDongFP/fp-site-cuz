@@ -53,15 +53,15 @@ weight = 3
 # URL = "contact"
 # weight = 4
 
-[[menu.main]]
-name = "Sample Page"
-URL = "sample-page"
-weight = 5
+# [[menu.main]]
+# name = "Sample Page"
+# URL = "sample-page"
+# weight = 5
 
-[[menu.main]]
-name = "六维评估 6D ASMT"
-URL = "six-dem-asmt"
-weight = 6
+# [[menu.main]]
+# name = "六维评估 6D ASMT"
+# URL = "six-dem-asmt"
+# weight = 6
 
 # only desktop menu
 [[menu.desktop]]
@@ -74,10 +74,10 @@ name = "文章 Blog"
 URL = "blog"
 weight = 2
 
-[[menu.desktop]]
-name = "六维评估 6D ASMT"
-URL = "six-dem-asmt"
-weight = 3
+# [[menu.desktop]]
+# name = "六维评估 6D ASMT"
+# URL = "six-dem-asmt"
+# weight = 3
 
 
 #################### default parameters ################################
