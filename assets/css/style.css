@@ -140,8 +140,8 @@ body {
 	background: #edf6f5;
 	box-sizing: border-box;
 	color: #000;
-	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
-	/* font-family: 'EB Garamond', 'Noto Serif SC', serif; */
+	/* font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif; */
+	font-family: 'EB Garamond', 'Noto Serif SC', serif;
 	font-size: 1.8rem;
 	letter-spacing: -0.015em;
 	text-align: left;
@@ -151,7 +151,6 @@ body {
 
 	body {
 		font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
-		/* font-family: 'EB Garamond', 'Noto Serif SC', serif; */
 	}
 }
 
@@ -463,12 +462,12 @@ hr.styled-separator::after {
 
 .entry-content hr::before,
 hr.styled-separator::before {
-	left: calc(50% - 0.5rem);
+	left: calc(70% - 0.5rem);
 }
 
 .entry-content hr::after,
 hr.styled-separator::after {
-	right: calc(50% - 0.5rem);
+	right: calc(70% - 0.5rem);
 }
 
 a {
@@ -515,7 +514,7 @@ ol ol ol {
 }
 
 li {
-	line-height: 1.5;
+	line-height: 1.0;
 	margin: 0.5rem 0 0 2rem;
 }
 
@@ -923,11 +922,12 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 	empty-cells: show;
-	font-size: 1.6rem;
+	font-size: 1.0rem;
 	margin: 4rem 0;
 	max-width: 100%;
 	overflow: hidden;
 	width: 100%;
+	table-layout:fixed;
 }
 
 .alignleft>table {
@@ -941,7 +941,7 @@ table {
 th,
 td {
 	border: 0.1rem solid #dcd7ca;
-	line-height: 1.4;
+	line-height: 1.0;
 	margin: 0;
 	overflow: visible;
 	padding: 0.5em;
@@ -1020,7 +1020,8 @@ section {
 }
 
 .section-inner.thin {
-	max-width: 58rem;
+	max-width: 58rem; 
+	/* 58 */
 }
 
 .section-inner.small {
@@ -2183,7 +2184,7 @@ button.search-untoggle {
 	color: inherit;
 	font-size: 2rem;
 	letter-spacing: -0.0277em;
-	height: 8.4rem;
+	height: 3.6rem;
 	margin: 0 0 0 -2rem;
 	max-width: calc(100% + 2rem);
 	padding: 0 0 0 2rem;
@@ -2708,7 +2709,7 @@ h2.entry-title {
 /* Single Pagination ------------------------- */
 
 .pagination-single {
-	font-size: 1.8rem;
+	font-size: 1.2rem;
 	margin-top: 5rem;
 }
 
@@ -3549,7 +3550,8 @@ figure.wp-block-table.is-style-stripes {
 /* Font Families ----------------------------- */
 
 .entry-content {
-	font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+	/* font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif; */
+	font-family: 'EB Garamond', 'Noto Serif SC', serif;
 	letter-spacing: normal;
 }
 
@@ -3565,7 +3567,8 @@ figure.wp-block-table.is-style-stripes {
 .entry-content address,
 .entry-content .wp-caption-text,
 .entry-content .wp-block-file {
-	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+	/* font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif; */
+	font-family: 'EB Garamond', 'Noto Serif SC', serif;
 }
 
 @supports (font-variation-settings: normal) {
@@ -3582,7 +3585,8 @@ figure.wp-block-table.is-style-stripes {
 	.entry-content address,
 	.entry-content .wp-caption-text,
 	.entry-content .wp-block-file {
-		font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+		font-family: 'EB Garamond', 'Noto Serif SC', serif;
+		/* font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif; */
 	}
 }
 
@@ -3590,12 +3594,12 @@ figure.wp-block-table.is-style-stripes {
 /* Alignment Classes ------------------------- */
 
 .entry-content>*:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
-	max-width: 58rem;
+	max-width: 90rem;
 	width: calc(100% - 4rem);
 }
 
 [class*="__inner-container"]>*:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
-	max-width: 58rem;
+	max-width: 90rem;
 	width: 100%;
 }
 
@@ -3634,7 +3638,7 @@ figure.wp-block-table.is-style-stripes {
 /* Wide */
 
 .alignwide {
-	max-width: 120rem;
+	max-width: 240rem;
 	position: relative;
 	width: calc(100% - 4rem);
 }
@@ -4596,7 +4600,7 @@ a.to-the-top>* {
 
 	.alignleft,
 	.alignright {
-		max-width: 26rem;
+		max-width: 32rem;
 	}
 
 	/* Post Footer --------------------------- */
@@ -4824,17 +4828,17 @@ a.to-the-top>* {
 
 	h2,
 	.heading-size-2 {
-		font-size: 4.8rem;
+		font-size: 3.6rem;
 	}
 
 	h3,
 	.heading-size-3 {
-		font-size: 4rem;
+		font-size: 3rem;
 	}
 
 	h4,
 	.heading-size-4 {
-		font-size: 3.2rem;
+		font-size: 2.8rem;
 	}
 
 	h5,
@@ -5072,7 +5076,7 @@ a.to-the-top>* {
 	}
 
 	h2.entry-title {
-		font-size: 6.4rem;
+		font-size: 3.6rem;
 	}
 
 	/* SEARCH RESULTS */
