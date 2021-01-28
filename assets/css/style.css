@@ -336,6 +336,7 @@ h1,
 
 h2,
 .heading-size-2 {
+	font-family: 'EB Garamond', 'Noto Serif SC', serif; /*single post title font*/
 	font-size: 3.2rem;
 }
 
@@ -3569,7 +3570,7 @@ figure.wp-block-table.is-style-stripes {
 .entry-content .wp-caption-text,
 .entry-content .wp-block-file {
 	/* font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif; */
-	font-family: 'EB Garamond', 'Noto Serif SC', serif;
+	font-family: 'EB Garamond', 'Noto Serif SC', serif; /**/
 }
 
 @supports (font-variation-settings: normal) {

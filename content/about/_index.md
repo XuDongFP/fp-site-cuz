@@ -6,7 +6,7 @@ description: "This is meta description"
 draft: false
 ---
 
-### FuturePlus
+### 未来+学院 FuturePlus Academy
 
 > 未来 + 学院是一所面向中国城乡问题，融实践、研发、学习于一体的非正规学院。
 
@@ -29,7 +29,7 @@ Current R&D products and tools include 6 Dimension Resource/Impact assessment, C
 Students in FuturePlus Academy are mainly those who are willing to get rid of inertial thinking and path dependence and are committed to improving the quality of habitat, including students, professionals, governors and enthusiasts.
 
 ---
-### Leadership
+### 领导团队 Leadership
 
 <img src="/images/team/team-cto.png" alt="CTO"
 	title="CTO" width="200" height="200" />
@@ -102,5 +102,5 @@ industrial planning and operation.
 
 She also pays attention to the application of systematic thinking and other methodologies in urban space and industrial planning.
 
-### Partners
+### 合作伙伴 Partners
 
