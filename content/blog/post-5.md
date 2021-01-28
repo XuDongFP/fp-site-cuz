@@ -6,7 +6,7 @@ image : "/images/banner-art.svg"
 author : ["FuturePlus"]
 # categories
 categories: ["公众号"]
-tags: ["",""]
+tags: ["测试","Test"]
 # meta description
 description: ""
 # save as draft

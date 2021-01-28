@@ -94,7 +94,8 @@ expire_days = 2
 # banner
 [params.banner]
 heading = "Making Poetic Habita"
-# "诗意栖居的营造学<br>|Making Poetic Habita"
+# heading = "诗意栖居的营造学"
+# heading = "诗意栖居的营造学<br>Making Poetic Habita"
 # image = "images/2020-landscape-1-2.png"
 image = "images/banner-shadows-logo.svg"
 # image = "images/banner-brown.svg"

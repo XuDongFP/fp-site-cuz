@@ -328,6 +328,7 @@ h6,
 
 h1,
 .heading-size-1 {
+	/* font-family: 'EB Garamond', 'Noto Serif SC', serif; */
 	font-size: 3.6rem;
 	font-weight: 800;
 	line-height: 1.138888889;
@@ -4160,7 +4161,8 @@ div.comment:first-of-type {
 .widget_text dl,
 .widget_text dt,
 .widget-content .rssSummary {
-	font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+	/* font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif; */
+	font-family: 'EB Garamond', 'Noto Serif SC', serif;
 	letter-spacing: normal;
 }
 
