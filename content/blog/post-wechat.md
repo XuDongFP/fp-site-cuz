@@ -1,7 +1,7 @@
 ---
 title: "微信公众号文章"
 date: 2020-12-31T18:00:00+08:00
-image : "/images/banner-art.svg"
+image : "/images/blog-banner-imac.svg"
 # author
 author : ["FuturePlus"]
 # categories
