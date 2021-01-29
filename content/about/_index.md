@@ -104,3 +104,4 @@ She also pays attention to the application of systematic thinking and other meth
 
 ### 合作伙伴 Partners
 
+![partners](/images/partners.webp "Partners")

@@ -139,5 +139,6 @@ copyright = "Copyright &copy; 2021 FuturePlus"
 
 email = "info@futureplus.net.cn"
 weibo = "https://weibo.com/u/6346288478?is_all=1"
-wechat = "https://mp.weixin.qq.com/s?__biz=MzIwOTI5MDU4NQ==&mid=2247485317&idx=1&sn=3755407fc194226ee11fecf3f22f1285&chksm=977753b3a000daa5b4572f4a20f656812288ce41931b5f3f5ed994b2378e36fae9c952f0712e&mpshare=1&scene=1&srcid=0122xxlBgjr8FDWKA7sxHvlH&sharer_sharetime=1611287105696&sharer_shareid=41bbf8cd7be1141103cd14443b95a8a1&exportkey=AesKKR0PL3EGysWRa8NyKig%3D&pass_ticket=3dY%2Fcp2cKw%2BD1aRLc%2FfymPC3yg4fF4CJKk3wXcRWsXq0JLlrzmRdApVfS4WvcP24&wx_header=0#rd"
+wechat = "/blog/post-wechat/"
+# wechat = "https://mp.weixin.qq.com/s?__biz=MzIwOTI5MDU4NQ==&mid=2247485317&idx=1&sn=3755407fc194226ee11fecf3f22f1285&chksm=977753b3a000daa5b4572f4a20f656812288ce41931b5f3f5ed994b2378e36fae9c952f0712e&mpshare=1&scene=1&srcid=0122xxlBgjr8FDWKA7sxHvlH&sharer_sharetime=1611287105696&sharer_shareid=41bbf8cd7be1141103cd14443b95a8a1&exportkey=AesKKR0PL3EGysWRa8NyKig%3D&pass_ticket=3dY%2Fcp2cKw%2BD1aRLc%2FfymPC3yg4fF4CJKk3wXcRWsXq0JLlrzmRdApVfS4WvcP24&wx_header=0#rd"
 bilibili = "https://space.bilibili.com/1006754152"

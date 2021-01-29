@@ -13,7 +13,11 @@ description: "FuturePlus微信公众号提供未来+学院最新咨询，敬请�
 draft: false
 ---
 
-扫码关注，或搜索FuturePlus.
+微信扫码关注，或搜索FuturePlus.
+
+![WeChat](/images/wechat.webp "WeChat")
+
+---
 
 ### 公众号文章列表
 
