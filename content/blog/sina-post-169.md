@@ -1,6 +1,6 @@
 
 ---
-title: "制年里说机制（二）"
+title: "机制里说机制（二）"
 date: 2008-01-01T20:44:33+08:00
 image: "/images/blog/sina-post-169-1.jpg"
 # author
@@ -14,7 +14,7 @@ description: "This is meta description"
 draft: false
 ---
 
-制年里说机制（二）
+机制里说机制（二）
 
 上篇说了规划理念更新和规划体系简化的意见，下半年一忙这机制年就要过去了，所以赶着年尾巴再补齐下篇。当然这半年新的动向支持了我在上篇的两个观点。
 
