@@ -7,7 +7,8 @@ languageCode = "zh-cn"
 # post pagination
 paginate = "6"
 # post excerpt
-summaryLength = "10"
+summaryLength = "100"
+hasCJKLanguage = true # use with summaryLength for Chinese words.
 # disqus short name
 disqusShortname = "futureplus" # get your shortname form here : https://disqus.com
 # disable language
@@ -39,14 +40,21 @@ URL = "/"
 weight = 1
 
 [[menu.main]]
-name = "关于 About"
-URL = "about"
-weight = 2
+name = "公告 Notice"
+URL = "notice"
+weight = 1
 
 [[menu.main]]
 name = "文章 Blog"
 URL = "blog"
 weight = 3
+
+[[menu.main]]
+name = "关于 About"
+URL = "about"
+weight = 4
+
+
 
 # [[menu.main]]
 # name = "Contact"
@@ -65,14 +73,22 @@ weight = 3
 
 # only desktop menu
 [[menu.desktop]]
-name = "关于 About"
-URL = "about"
+name = "公告 Notice"
+URL = "notice"
+# URL = "contact"
 weight = 1
 
 [[menu.desktop]]
 name = "文章 Blog"
 URL = "blog"
 weight = 2
+
+[[menu.desktop]]
+name = "关于 About"
+URL = "about"
+weight = 3
+
+
 
 # [[menu.desktop]]
 # name = "六维评估 6D ASMT"
@@ -85,6 +101,7 @@ weight = 2
 # Meta data
 description = "This is meta description"
 author = "FuturePlus"
+
 
 # cookies
 [params.cookies]
