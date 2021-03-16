@@ -115,6 +115,7 @@ heading = "Making Poetic Habita"
 image = "images/banner-shadows-logo.svg"
 # blog
 [params.blog]
+enable = false
 heading = "最新文章 Latest Posts"
 
 # gallery
