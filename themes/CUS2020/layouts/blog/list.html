@@ -1,7 +1,24 @@
 {{ define "main" }}
-
-{{ range .Data.Pages }}
-{{ .Render "post" }}
-{{ end }}
-
+<article class="page type-page status-publish hentry">
+	<header class="entry-header has-text-align-center header-footer-group">
+		<div class="entry-header-inner section-inner medium">
+			<h1 class="entry-title">{{ .Title }}</h1>
+		</div>
+	</header>
+    <div class="post-inner thin">
+        <div class="entry-content">
+            {{ range .Pages.GroupByDate "2006-01" "desc" }}
+            <h3>{{ .Key }}</h3>
+            <ul>
+                {{ range .Pages.ByTitle }}
+                <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <div class="meta">{{ .Date.Format "2006-01-02" }}</div>
+                </li>
+                {{ end }}
+            </ul>
+            {{ end }}
+        </div>
+    </div>
+</article>
 {{ end }}
