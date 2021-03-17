@@ -12,8 +12,9 @@
             <ul>
                 {{ range .Pages.ByTitle }}
                 <li>
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-                <div class="meta">{{ .Date.Format "2006-01-02" }}</div>
+                    <!-- {{ .Date.Format "2006-01-02" }} -->
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <!-- {{.Params.Categories}} -->
                 </li>
                 {{ end }}
             </ul>
