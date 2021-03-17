@@ -50,13 +50,13 @@
       {{ if .Site.Params.gallery.enable }}
       {{ with .Site.Params.gallery }}
       <figure class="wp-block-gallery alignwide columns-2 is-cropped">
-        <ul class="blocks-gallery-grid">
+        <!-- <ul class="blocks-gallery-grid"> -->
           {{ range .gallery_item }}
           <li class="blocks-gallery-item">
             <figure><img src="{{ .image | absURL }}"/></figure>
           </li>
           {{ end }}
-        </ul>
+        <!-- </ul> -->
       </figure>
       {{ end }}
       {{ end }}
