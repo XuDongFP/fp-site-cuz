@@ -60,7 +60,7 @@ Figure 1-3 Aerial Photography of Project Land
 
 The land area of the project is about 77,174 square meters, with a total construction area of 178,329 square meters, including 112,337 square meters above ground and 65,992 square meters below ground (tentatively, the underground area is mainly for equipment rooms, parking and civil air defense, and the designer can adjust the terrain according to the specific plan).
 
-设计需整合公安指挥中心、档案馆·方志馆、交警大队等技术用房以及相应服务配套设施的功能及空间关系。充分考虑各个专业设计的协作，以及公共空间资源的共享，在城市设计、建筑设计、景观设计三个方面统筹考虑。
+设计需整合公安指挥中心、档案馆·方志馆、交警大队营房等技术用房以及相应服务配套设施的功能及空间关系。充分考虑各个专业设计的协作，以及公共空间资源的共享，在城市设计、建筑设计、景观设计三个方面统筹考虑。
 
 The design needs to integrate the functions and spatial relations of technical houses such as public security command center, archives, local chronicles museum, traffic police brigade and corresponding service supporting facilities. Give full consideration to the cooperation of various professional designs and the sharing of public space resources. Overall consideration should be given to urban design, architectural design and landscape design.
 
@@ -273,7 +273,7 @@ caixiaoling@futureplus.net.cn
 
 fumingwei@futureplus.net.cn
 
-9信息发布Announcement
+## 9 信息发布 Announcement
 
 (1) 具体竞赛内容与竞赛日程以本竞赛招标公告为准。
 
