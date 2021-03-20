@@ -300,6 +300,12 @@ DOWNLOAD LINK：
 
 > http://gofile.me/42C4t/yk2N06YKU
 
+正式报名登记链接：
+
+REGISTER LINK：
+
+> https://jinshuju.net/f/nfzscw
+
 
 
 ---
