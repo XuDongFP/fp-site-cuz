@@ -72,7 +72,7 @@ The design needs to integrate the functions and spatial relations of technical h
 
 (2) Public Security Command Center: The total construction area is 55,519 square meters. (The above-ground construction area is about 32,702 square meters, and the underground construction area is about 22,817 square meters)
 
-（3） 交警大队：总建筑面积26446平方米。（地上建筑面积约14773平方米，地下建筑面积约11673平方米）
+（3） 交警大队营房：总建筑面积26446平方米。（地上建筑面积约14773平方米，地下建筑面积约11673平方米）
 
 (3) Traffic Police Brigade: The total construction area is 26,446 square meters. (The above-ground construction area is about 14,773 square meters, and the underground construction area is about 11,673 square meters)
 
@@ -297,7 +297,8 @@ fumingwei@futureplus.net.cn
 下载链接:
 
 DOWNLOAD LINK：
-> 待定 uploading... please wait...
+
+> http://gofile.me/42C4t/Qufb3WC9N
 
 
 
