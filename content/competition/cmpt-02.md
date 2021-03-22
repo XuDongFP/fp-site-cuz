@@ -298,7 +298,11 @@ fumingwei@futureplus.net.cn
 
 DOWNLOAD LINK：
 
-> http://gofile.me/42C4t/yk2N06YKU
+> http://gofile.me/42C4t/yk2N06YKU  
+
+或 OR
+
+> https://www.jianguoyun.com/p/Df4bSJIQvL-oCRiIzegD
 
 正式报名登记链接：
 
