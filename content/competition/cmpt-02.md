@@ -281,28 +281,28 @@ fumingwei@futureplus.net.cn
 
 (2) 附件下载：
 
-- 《入围简案阶段竞赛文件》
-- 《附件1：入围简案阶段竞赛文件格式》
-- 《附件2：入围简案阶段设计任务书》
-- 《附件3：参赛申请人报名情况一览表》
+- [《入围简案阶段竞赛文件》](https://www.jianguoyun.com/p/DWNkKsAQvL-oCRjlzegD)
+- [《附件1：入围简案阶段竞赛文件格式》](https://www.jianguoyun.com/p/DScT34MQvL-oCRjtzegD)
+- [《附件2：入围简案阶段设计任务书》](https://www.jianguoyun.com/p/DeiFakcQvL-oCRj0zegD)
+- [《附件3：参赛申请人报名情况一览表》](https://www.jianguoyun.com/p/DYxzoI8QvL-oCRj3zegD)
+- [地形图](https://www.jianguoyun.com/p/DdLvSKEQvL-oCRjszegD)
 
 (2) Appendixes Download:
 
-- Brief Scheme SubmissionStage Competition Document
-- Annex 1: Format of Competition Document at the brief proposal submission stage
-- Annex 2: Competition Design Brief at the brief proposal submission stage
-- Annex 3: List of Application Information
+- [Brief Scheme SubmissionStage Competition Document](https://www.jianguoyun.com/p/DWNkKsAQvL-oCRjlzegD)
+- [Annex 1: Format of Competition Document at the brief proposal submission stage](https://www.jianguoyun.com/p/DScT34MQvL-oCRjtzegD)
+- [Annex 2: Competition Design Brief at the brief proposal submission stage](https://www.jianguoyun.com/p/DeiFakcQvL-oCRj0zegD)
+- [Annex 3: List of Application Information](https://www.jianguoyun.com/p/DYxzoI8QvL-oCRj3zegD)
+- [Topographic Map](https://www.jianguoyun.com/p/DdLvSKEQvL-oCRjszegD)
 
 
-下载链接:
+所有文件打包下载:
 
-DOWNLOAD LINK：
+DOWNLOAD IN ONE ZIP：
 
-> http://gofile.me/42C4t/yk2N06YKU  
+> https://www.jianguoyun.com/p/DWgfuZYQvL-oCRiGzugD
 
-或 OR
 
-> https://www.jianguoyun.com/p/Df4bSJIQvL-oCRiIzegD
 
 正式报名登记链接：
 
