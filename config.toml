@@ -50,9 +50,14 @@ URL = "blog"
 weight = 3
 
 [[menu.main]]
+name = "信模 CIIM"
+URL = "ciim"
+weight = 4
+
+[[menu.main]]
 name = "关于 About"
 URL = "about"
-weight = 4
+weight = 5
 
 
 
@@ -84,11 +89,14 @@ URL = "blog"
 weight = 2
 
 [[menu.desktop]]
-name = "关于 About"
-URL = "about"
+name = "信模 CIIM"
+URL = "ciim"
 weight = 3
 
-
+[[menu.desktop]]
+name = "关于 About"
+URL = "about"
+weight = 4
 
 # [[menu.desktop]]
 # name = "六维评估 6D ASMT"
