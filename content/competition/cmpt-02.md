@@ -60,7 +60,7 @@ Figure 1-3 Aerial Photography of Project Land
 
 The land area of the project is about 77,174 square meters, with a total construction area of 178,329 square meters, including 112,337 square meters above ground and 65,992 square meters below ground (tentatively, the underground area is mainly for equipment rooms, parking and civil air defense, and the designer can adjust the terrain according to the specific plan).
 
-设计需整合公安指挥中心、档案馆·方志馆、交警大队等技术用房以及相应服务配套设施的功能及空间关系。充分考虑各个专业设计的协作，以及公共空间资源的共享，在城市设计、建筑设计、景观设计三个方面统筹考虑。
+设计需整合公安指挥中心、档案馆·方志馆、交警大队营房等技术用房以及相应服务配套设施的功能及空间关系。充分考虑各个专业设计的协作，以及公共空间资源的共享，在城市设计、建筑设计、景观设计三个方面统筹考虑。
 
 The design needs to integrate the functions and spatial relations of technical houses such as public security command center, archives, local chronicles museum, traffic police brigade and corresponding service supporting facilities. Give full consideration to the cooperation of various professional designs and the sharing of public space resources. Overall consideration should be given to urban design, architectural design and landscape design.
 
@@ -72,7 +72,7 @@ The design needs to integrate the functions and spatial relations of technical h
 
 (2) Public Security Command Center: The total construction area is 55,519 square meters. (The above-ground construction area is about 32,702 square meters, and the underground construction area is about 22,817 square meters)
 
-（3） 交警大队：总建筑面积26446平方米。（地上建筑面积约14773平方米，地下建筑面积约11673平方米）
+（3） 交警大队营房：总建筑面积26446平方米。（地上建筑面积约14773平方米，地下建筑面积约11673平方米）
 
 (3) Traffic Police Brigade: The total construction area is 26,446 square meters. (The above-ground construction area is about 14,773 square meters, and the underground construction area is about 11,673 square meters)
 
@@ -273,7 +273,7 @@ caixiaoling@futureplus.net.cn
 
 fumingwei@futureplus.net.cn
 
-9信息发布Announcement
+## 9 信息发布 Announcement
 
 (1) 具体竞赛内容与竞赛日程以本竞赛招标公告为准。
 
@@ -281,23 +281,34 @@ fumingwei@futureplus.net.cn
 
 (2) 附件下载：
 
-- 《入围简案阶段竞赛文件》
-- 《附件1：入围简案阶段竞赛文件格式》
-- 《附件2：入围简案阶段设计任务书》
-- 《附件3：参赛申请人报名情况一览表》
+- [《入围简案阶段竞赛文件》](https://www.jianguoyun.com/p/DWNkKsAQvL-oCRjlzegD)
+- [《附件1：入围简案阶段竞赛文件格式》](https://www.jianguoyun.com/p/DScT34MQvL-oCRjtzegD)
+- [《附件2：入围简案阶段设计任务书》](https://www.jianguoyun.com/p/DeiFakcQvL-oCRj0zegD)
+- [《附件3：参赛申请人报名情况一览表》](https://www.jianguoyun.com/p/DYxzoI8QvL-oCRj3zegD)
+- [地形图](https://www.jianguoyun.com/p/DdLvSKEQvL-oCRjszegD)
 
 (2) Appendixes Download:
 
-- Brief Scheme SubmissionStage Competition Document
-- Annex 1: Format of Competition Document at the brief proposal submission stage
-- Annex 2: Competition Design Brief at the brief proposal submission stage
-- Annex 3: List of Application Information
+- [Brief Scheme SubmissionStage Competition Document](https://www.jianguoyun.com/p/DWNkKsAQvL-oCRjlzegD)
+- [Annex 1: Format of Competition Document at the brief proposal submission stage](https://www.jianguoyun.com/p/DScT34MQvL-oCRjtzegD)
+- [Annex 2: Competition Design Brief at the brief proposal submission stage](https://www.jianguoyun.com/p/DeiFakcQvL-oCRj0zegD)
+- [Annex 3: List of Application Information](https://www.jianguoyun.com/p/DYxzoI8QvL-oCRj3zegD)
+- [Topographic Map](https://www.jianguoyun.com/p/DdLvSKEQvL-oCRjszegD)
 
 
-下载链接:
+所有文件打包下载:
 
-DOWNLOAD LINK：
-> 待定 uploading... please wait...
+DOWNLOAD IN ONE ZIP：
+
+> https://www.jianguoyun.com/p/DWgfuZYQvL-oCRiGzugD
+
+
+
+正式报名登记链接：
+
+REGISTER LINK：
+
+> https://jinshuju.net/f/nfzscw
 
 
 
