@@ -310,7 +310,10 @@ REGISTER LINK：
 
 > https://jinshuju.net/f/nfzscw
 
+**答疑补遗文件**
 
+链接：https://pan.baidu.com/s/1YnucUpxntZfgWuRPsOQV_Q 
+提取码：8he5 
 
 ---
 ※ 主办方对本次国际竞赛规则拥有最终解释权，解释语言以中文为准。
