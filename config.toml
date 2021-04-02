@@ -113,7 +113,7 @@ author = "FuturePlus"
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 
 # banner
@@ -149,7 +149,7 @@ button_url = "contact"
 address = "深圳市南山区深圳湾科技生态园7栋B座704\n\n7-B704, Shenzhen Bay Eco-Technology Park, Nanshan District, Shenzhen, P.R.China"
 phone = "0755 8653 5194"
 email = "info@futureplus.net.cn"
-copyright = "Copyright &copy; 2021 FuturePlus"
+copyright = "Copyright &copy; 2021 FuturePlus 粤ICP备18129250号-1"
 
 ############################# social site ########################
 [params.social]
