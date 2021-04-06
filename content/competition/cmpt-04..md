@@ -30,21 +30,21 @@ Competition for Conceptual Design of Dapeng Public Affairs Center (tentative nam
 
 The competition agenda is revised as follows：
 
-| 阶段Stage                                              | 时间Time                                                     | 事项Item                                                     |
-| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 入围简案阶段  Brief Scheme submission stage            | 2021.03.18  （暂定/Tentative）                               | 发布竞赛公告及接受报名  Release Competition Announcement  and accept registration |
-| 2021.03.25（17:00前/Before 17:00）  （暂定/Tentative） | 质疑截止  Query Deadline                                     |                                                              |
-| 2021.03.29（17:00前/Before 17:00）  （暂定/Tentative） | 答疑及补遗发布  Clarification, Amendment and  Answering Period Deadline |                                                              |
-| 2021.04.13（17:00前/Before 17:00）  （暂定/Tentative） | 文件提交截止  Deadline of competition document  submission   |                                                              |
-| 2021.04.14-04.19  （暂定/Tentative）                   | 竞赛评审会（简案暗标）及结果公示  Competition review (closed bid)  and result publicity |                                                              |
-| 概念方案阶段  Conceptual design stage                  | 2021.04.25  （暂定/Tentative）                               | 发布正式竞赛文件及设计任务书  Release Official Competition  Document and Design Brief |
-|                                                        | 2021.04.27  （暂定/Tentative）                               | 踏勘答疑会（组织形式另行通知）  Site Survey and Q & A Meeting  (form to be notified) |
-|                                                        | 2021.04.30  （暂定/Tentative）                               | 质疑截止（电子邮件形式）  Query Deadline (via Email)         |
-|                                                        | 2021.05.07  （暂定/Tentative）                               | 书面答疑（电子邮件形式）  Clarification Period Deadline  (via Email) |
-|                                                        | 2021.06.05（15:00前/Before 15:00）  （暂定/Tentative）       | 入围联合团队递交成果文件  Design Competition deliverables  submission Deadline |
-|                                                        | 2021.06.06-06.10  （暂定/Tentative）                         | 方案评审（暗标）及结果公示  Scheme review (closed bid) and  result publicity |
-| 审定及优化阶段  Determination and optimization  stage  | 2021.06  （待定/Tentative）                                  | 审定方案及结果公示  Notice of scheme development  review result |
-|                                                        | 2021.06  （待定/Tentative）                                  | 方案优化  Scheme optimization                                |
+| 阶段Stage                                           | 时间Time                                              | 事项Item                                                     |
+| --------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| 入围简案阶段 Brief Scheme submission stage          | 2021.03.18 （暂定/Tentative）                         | 发布竞赛公告及接受报名 Release Competition Announcement and accept registration |
+|                                                     | 2021.03.25（17:00前/Before 17:00） （暂定/Tentative） | 质疑截止 Query Deadline                                      |
+|                                                     | 2021.03.29（17:00前/Before 17:00） （暂定/Tentative） | 答疑及补遗发布 Clarification, Amendment and Answering Period Deadline |
+|                                                     | 2021.04.13（17:00前/Before 17:00） （暂定/Tentative） | 文件提交截止 Deadline of competition document submission     |
+|                                                     | 2021.04.14-04.19 （暂定/Tentative）                   | 竞赛评审会（简案暗标）及结果公示 Competition review (closed bid) and result publicity |
+| 概念方案阶段 Conceptual design stage                | 2021.04.25 （暂定/Tentative）                         | 发布正式竞赛文件及设计任务书 Release Official Competition Document and Design Brief |
+|                                                     | 2021.04.27 （暂定/Tentative）                         | 踏勘答疑会（组织形式另行通知） Site Survey and Q & A Meeting (form to be notified) |
+|                                                     | 2021.04.30 （暂定/Tentative）                         | 质疑截止（电子邮件形式） Query Deadline (via Email)          |
+|                                                     | 2021.05.07 （暂定/Tentative）                         | 书面答疑（电子邮件形式） Clarification Period Deadline (via Email) |
+|                                                     | 2021.06.05（15:00前/Before 15:00） （暂定/Tentative） | 入围联合团队递交成果文件 Design Competition deliverables submission Deadline |
+|                                                     | 2021.06.06-06.10 （暂定/Tentative）                   | 方案评审（暗标）及结果公示 Scheme review (closed bid) and result publicity |
+| 审定及优化阶段 Determination and optimization stage | 2021.06 （待定/Tentative）                            | 审定方案及结果公示 Notice of scheme development review result |
+|                                                     | 2021.06 （待定/Tentative）                            | 方案优化 Scheme optimization                                 |
 
 
 
