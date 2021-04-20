@@ -58,18 +58,3 @@ draft: flase
 ***\*竞赛组织单位：\****
 
 深圳市未来家投资发展有限公司
-
-| 序号  No. | 受邀设计机构名称  Invited Design Agencies | 联合团队成员名称  Joint  Team Members |
-| --------- | ----------------------------------------- | ------------------------------------- |
-| 1         | hpp建筑事务所                             | 深圳市零米建筑设计有限公司            |
-| 2         | Baumschlager Eberle  Hong Kong Limited    | 深圳汤桦建筑设计事务所有限公司        |
-| 3         | 嘉柏建筑师有限公司                        | 深圳华森建筑与工程设计顾问有限公司    |
-
-
-
-
-
----
-※ 主办方对本次国际竞赛规则拥有最终解释权，解释语言以中文为准。
-
-※ The host reserves the right for the interpretation of the Competition Document, with the language of interpretation subjected to Chinese.
