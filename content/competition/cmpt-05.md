@@ -1,6 +1,6 @@
 ---
 title: "入围简案阶段评审结果公示 |大鹏公共事务中心（暂定名）概念方案设计竞赛"
-date: 2021-04-20T17:02:00+08:00
+date: 2021-04-20T15:02:00+08:00
 image : ""
 # author
 author : ["FuturePlus"]
@@ -67,39 +67,6 @@ draft: flase
 
 
 
-### 3 大鹏金岭路国际竞赛场地模型 SITE 3D MODEL
-
-提供`dae`、`obj`两种格式场地及周边建筑信息模型，详见附件。
-
-模型内容包括：场地内空间示意体块（可根据具体方案调整）、场地周边建筑模型、场地南侧城市更新模型。
-
-Two types of site and surrounding building information models in `dae` and `obj` formats are provided, see the Appendix for details.
-
-The model content includes: spatial schematic blocks in the site (can be adjusted according to the specific plan), surrounding buildings, and urban renewal on the south side of the site.
-
-### 4 大鹏金岭路国际竞赛沙盘实体模型展示 SITE PYSICAL MODEL
-
-提供由未来+研发的沙盘实体模型展示，供参赛团队了解场地周边城市空间体量关系，详见附件。
-
-A physical model or sandbox developed by FuturePlus is provided for teams to understand the relationship between the urban space volumes around the site.
-
-
-
-**附件 Appendix:**
-
-下载链接 DOWNLOAD LINK: https://pan.baidu.com/s/1s80glMUMXimj9MGvdIIQPw
-
-提取码 PASSWORD： `n8ao`
-
-
-
-深圳市未来家投资发展有限公司
-
-FuturePlus Academy
-
-2021年4月2日
-
-April 2, 2021
 
 
 ---
