@@ -6,14 +6,17 @@ description: "This is meta description"
 draft: false
 ---
 
-## 城市智能互动模型 | City Intelligent InteractiveModel
+<div align=center>
+<img src="/images/ciim/logo.gif"/>
+</div>
 
+> 城市智能互动模型
 
-![logo](/images/ciim/logo.gif)
+> City Intelligent InteractiveModel
 
 一种城市设计及设计组织活动的利器
 
-信模CIIM，城市智能互动模型（City Intelligent InteractiveModel），是一种城市设计生成与管理的产品系统。
+信模 CIIM，城市智能互动模型（City Intelligent InteractiveModel），是一种城市设计生成与管理的产品系统。
 
 包含资源评估Assessment、指标生成、空间生成、互动优化、合成实景、实体模型等功能板块，
 
@@ -41,8 +44,9 @@ draft: false
 6、实体模型：能根据方案数据，即时打印三维实体可变模型，并能在可变模型和数据之间进行双向关联和修改。
 
 
-新模系统的软件、硬件都由未来＋学院自主研发并进行专利申请的产品，目前国内还没有专门针对城市设计进行研发的同类产品，信模属于相对空白领域的前沿探索。
+信模系统的软件、硬件都由未来＋学院自主研发并进行专利申请的产品，目前国内还没有专门针对城市设计进行研发的同类产品，信模属于相对空白领域的前沿探索。
 
 
-
-![partners](/images/ciim/ciim-uabb-2019.webp "Partners")
+<div align=center>
+<img src="/images/ciim/ciim-uabb-2019.webp"/>
+</div>
