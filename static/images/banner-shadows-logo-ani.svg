@@ -12,7 +12,7 @@
 <path id="path18" class="cls-left-shadow" d="M289.46,207.88.26,352.28v63.5h225.2l136-136v-71.9Z"/>
 
 <path id="l_cross" class="cls-cross" d="M313.67 279.08 290.07 279.08 290.07 255.48 288.77 255.48 288.77 279.08 265.17 279.08 265.17 280.38 288.77 280.38 288.77 303.88 290.07 303.88 290.07 280.38 313.67 280.38 313.67 279.08z">
-	<animate dur="3s" values="#fff; #8a807e; #fff;" keyTimes="0; 0.5; 1" attributeName="fill" repeatCount="indefinite"/>
+	<animate dur="3s" values="#8a807e; #fff; #8a807e;" keyTimes="0; 0.5; 1" attributeName="fill" repeatCount="indefinite"/>
 </path>
 <path id="path22" class="cls-right-shadow" d="M542.54,54.61,831.74,199v216.8h-71.9l-289.2-289.3V54.61Z"/>
 
