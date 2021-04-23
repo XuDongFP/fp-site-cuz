@@ -120,7 +120,7 @@ expire_days = 2
 [params.banner]
 heading = "Making Poetic Habita"
 # heading = "诗意栖居的营造学"
-image = "images/banner-shadows-logo.svg"
+image = "images/banner-shadows-logo-ani.svg"
 # blog
 [params.blog]
 heading = "最新文章 Latest Posts"
@@ -132,8 +132,9 @@ enable = true
 # [[params.gallery.gallery_item ]]
 # image = "images/2020-square-2.png"
 
-[[params.gallery.gallery_item ]]
-image = "images/screenshot.svg"
+# [[params.gallery.gallery_item ]]
+# image = "images/test.svg"
+# image = "images/screenshot.svg"
 
 # call to action
 [params.call_to_action]
