@@ -2463,17 +2463,20 @@ body:not(.singular) main>article:first-of-type {
 
 
 h1.entry-title{
-	/* text-shadow: -15px 5px 20px #ced0d3; */
-    /* color: white; */
-    letter-spacing: -0.05em;
-    /* font-family: 'Anton', Arial, sans-serif; */
-    user-select: none;
-    /* text-transform: uppercase; */
-    transition: all 0.25s ease-out;
+	text-shadow: -3px -3px 6px #0aa8a7;
+    white-space: nowrap;
+    overflow: hidden;    
+	/* Animation */
+    animation: animated-text 4s steps(29) ;
 }
-h1.entry-title:hover {
-    text-shadow: 16px -6px 15px #a2a3a3;
-	}
+
+
+/* text animation */
+@keyframes animated-text{
+  from{width: 0;}
+  to{width: 900px;}
+}
+
 
 h2.entry-title {
 	margin: 0;
