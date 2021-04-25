@@ -1,5 +1,5 @@
 ---
-title: "竞赛"
+title: "Competition"
 # meta description
 description: "This is meta description"
 # save as draft
