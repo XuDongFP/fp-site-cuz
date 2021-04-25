@@ -120,7 +120,7 @@ expire_days = 2
 [params.banner]
 heading = "Making Poetic Habita"
 # heading = "诗意栖居的营造学"
-image = "images/banner-shadows-logo-ani.svg"
+image = "images/banner-shadows-logo-ani2-01.svg"
 # blog
 [params.blog]
 heading = "最新文章 Latest Posts"

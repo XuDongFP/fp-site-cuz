@@ -2430,7 +2430,8 @@ body:not(.singular) main>article:first-of-type {
 
 .singular .entry-header {
 	background-color: #fff;
-	padding: 4rem 0;
+	/* padding: 8rem 0; */
+	padding: 2rem 0;
 }
 
 .entry-categories {
@@ -2463,18 +2464,18 @@ body:not(.singular) main>article:first-of-type {
 
 
 h1.entry-title{
-	text-shadow: -3px -3px 6px #0aa8a7;
-    white-space: nowrap;
-    overflow: hidden;    
+	/* text-shadow: 0px -3px 0px #0aa8a7; */
+    /* white-space: nowrap; */
+    /* overflow: hidden;     */
 	/* Animation */
-    animation: animated-text 4s steps(29) ;
+    /* animation: animated-text 4s steps(29) ; */
 }
 
 
 /* text animation */
 @keyframes animated-text{
   from{width: 0;}
-  to{width: 900px;}
+  to{width: 100%;}
 }
 
 
@@ -5114,7 +5115,8 @@ a.to-the-top>* {
 	/* POST HEADER */
 
 	.singular .entry-header {
-		padding: 8rem 0;
+		/* padding: 8rem 0; */
+		padding: 2rem 0;
 	}
 
 	.entry-categories {
@@ -5427,8 +5429,8 @@ a.to-the-top>* {
 
 	.entry-content>.alignwide:not(.wp-block-group.has-background),
 	.entry-content>.alignfull:not(.wp-block-group.has-background) {
-		margin-bottom: 6rem;
-		margin-top: 6rem;
+		margin-bottom: 0rem; /*6*/
+		margin-top: 0rem; /*6*/
 	}
 
 	.entry-content>.alignwide {
