@@ -11,7 +11,7 @@
             {{ range .Pages.GroupByDate "2006-01" "desc" }}
             <h3>{{ .Key }}</h3>
             <ul>
-                {{ range .Pages.ByTitle }}
+                {{ range .Pages.ByDate }}
                 <li>
                     <!-- {{ .Date.Format "2006-01-02" }} -->
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
