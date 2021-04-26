@@ -13,13 +13,13 @@ description: "敬请关注FuturePlus未来+学院！"
 draft: flase
 ---
 
-# **1** ***\*竞赛\*******\*流程 Competition Process\****
+## 1竞赛流程 Competition Process
 
-***\*入围简案阶段\**** ***\*Brief Scheme Submission Stage (已结束)\****
+入围简案阶段*Brief Scheme Submission Stage (已结束)
 
  
 
-***\*概念方案阶段\*******\*C\*******\*onceptual\**** ***\*D\*******\*esign\**** ***\*Stage\****
+概念方案阶段Conceptual*Design*Stage
 
 在确定的任务书及城市设计指引下，提出建筑概念设计方案供评选。概念方案阶段竞赛仍保持公开，接受自由参赛联合团队继续报名，已报名并通过审核的自由参赛联合团队方可参加概念方案阶段。（自由参赛联合团队不获得入围简案阶段奖金）。
 
@@ -39,7 +39,7 @@ l  The host shall establish a review committee in accordance with the law to rev
 
  
 
-***\*审定及优化阶段\**** ***\*Determination and Optimization Stage\****
+审定及优化阶段*Determination and Optimization Stage
 
 主办方组建审定委员会审定竞赛评选结果，确认第一名优胜方案。第一名方案优胜联合团队后续需根据各方意见进行优化。
 
@@ -47,7 +47,7 @@ The host shall set up a review committee to review the results and select the wi
 
  
 
-# **2** ***\*报名及资质要求\**** ***\*Requirements\****
+## 2报名及资质要求 Requirements
 
 （1）参赛联合团队须是注册的企业或机构。
 
@@ -71,9 +71,9 @@ The host shall set up a review committee to review the results and select the wi
 
  
 
-# **3** ***\*竞赛奖金\**** ***\*Competition Bonus\****
+## 3竞赛奖金 Competition Bonus
 
-## 概念方案及审定阶段奖金Bonus for the Conceptual design and optimization stage：
+### 概念方案及审定阶段奖金Bonus for the Conceptual design and optimization stage：
 
 （1） 第一名联合团队获得230万元人民币（含方案优化费用）
 
@@ -91,17 +91,17 @@ Note: Bonus for this stage do not include bonus for the brief Scheme submission 
 
  
 
-# **4** ***\*竞赛日程\**** ***\*Competition Agenda\****
+## 4竞赛日程 Competition Agenda
 
 | **阶段Stage**                                              | **时间Time**                                         | **事项Item**                                                 |
 | ---------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
-| **概念方案阶段****Conceptual design stage**                | 2021.04.25（暂定/Tentative）                         | 发布正式竞赛文件及设计任务书release Official Competition Document and Design Brief |
+| **概念方案阶段*Conceptual design stage**                | 2021.04.25（暂定/Tentative）                         | 发布正式竞赛文件及设计任务书release Official Competition Document and Design Brief |
 |                                                            | 2021.04.27（暂定/Tentative）                         | 踏勘答疑会（组织形式另行通知）Site Survey and Q & A Meeting (form to be notified) |
 |                                                            | 2021.04.30（暂定/Tentative）                         | 质疑截止（电子邮件形式）Query Deadline (via Email)           |
 |                                                            | 2021.05.07（暂定/Tentative）                         | 书面答疑（电子邮件形式）Clarification Period Deadline (via Email) |
 |                                                            | 2021.06.07（15:00前/Before 15:00）（暂定/Tentative） | 入围联合团队递交成果文件Design Competition deliverables submission Deadline |
 |                                                            | 2021.06.08-06.10（暂定/Tentative）                   | 方案评审（暗标）及结果公示Scheme review (closed bid) and result publicity |
-| **审定及优化阶段****Determination and optimization stage** | 2021.06.（待定/Tentative）                           | 审定方案及结果公示Notice of scheme development review result |
+| **审定及优化阶段*Determination and optimization stage** | 2021.06.（待定/Tentative）                           | 审定方案及结果公示Notice of scheme development review result |
 |                                                            | 2021.06（待定/Tentative）                            | 方案优化Scheme optimization                                  |
 
 注/ Note:
@@ -118,21 +118,21 @@ Note: Bonus for this stage do not include bonus for the brief Scheme submission 
 
  
 
-# **5** ***\*赛事组织Organizers\****
+## 5赛事组织 Organizers
 
-（1） ***\*主办方\**** ***\*Host\****
+（1） 主办方 Host
 
 深圳市大鹏新区管理委员会
 
 Shenzhen Dapeng New District Management Committee
 
-（2） ***\*承办方Organizer\****
+（2） 承办方Organizer
 
 深圳市规划和自然资源局大鹏管理局
 
 Dapeng Administration Bureau of Shenzhen Municipal of planning and natural resources
 
-（3） ***\*项目使用单位Project user\****
+（3） 项目使用单位Project user
 
 深圳市大鹏新区机关事务管理中心
 
@@ -146,7 +146,7 @@ Dapeng branch of Shenzhen Public Security Bureau
 
 Dapeng brigade of traffic police detachment of Shenzhen Public Security Bureau
 
-（4） ***\*竞赛组织单位Co-organizer\****
+（4） 竞赛组织单位Co-organizer
 
 深圳市未来家投资发展有限公司
 
@@ -154,7 +154,7 @@ FuturePlus Academy
 
  
 
-***\*联系方式：\****
+联系方式：
 
 蔡工13590410014  符工 13923439321
 
@@ -166,13 +166,13 @@ Consultation time: Monday to Friday, Beijing time, 9:00-12:00,14:00-18:00
 
  
 
-***\*咨询邮箱Enquiry E-mail：\****
+咨询邮箱Enquiry E-mail：
 
 caixiaoling@futureplus.net.cn / fumingwei@futureplus.net.cn
 
  
 
-# **6** ***\*信息发布\**** ***\*Announcement\****
+## 6信息发布 Announcement
 
 （1）下载附件 Appendixes Download
 
