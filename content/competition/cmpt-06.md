@@ -83,7 +83,7 @@ The host shall set up a review committee to review the results and select the wi
 
 (1) The joint team of the first place, with bonus of 2.3 million RMB (including the cost of scheme optimization).
 
-(2) The joint team of the second and third place, with bonus of 7 million RMB each.
+(2) The joint team of the second and third place, with bonus of 0.7 million RMB each.
 
 Note: Bonus for this stage do not include bonus for the brief Scheme submission stage.
 
