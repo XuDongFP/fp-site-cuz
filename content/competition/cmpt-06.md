@@ -25,17 +25,17 @@ draft: flase
 
 The shortlisted joint teams shall make architectural conceptual design proposals for review under the established design brief and urban design guidelines. The competition will remain open to the public at this stage, and registration by independent joint teams is still workable. The independent joint teams should be reviewed before competing at this stage. (independent joint teams will not be rewarded with the bonus set up for the first stage). 
 
-l  通过入围简案阶段产生的8家入围参赛联合团队以及自由参赛联合团队进入本阶段；
+- 通过入围简案阶段产生的8家入围参赛联合团队以及自由参赛联合团队进入本阶段；
 
-l  The 8 joint teams shortlisted from the first stage as well as the independent ones  will enter this stage (conceptual design);
+- The 8 joint teams shortlisted from the first stage as well as the independent ones  will enter this stage (conceptual design);
 
-l  8家入围参赛联合团队以及已报名并通过审核自由参赛联合团队提交符合设计任务书要求的设计成果文件，每家只允许提交一个竞赛方案；
+- 8家入围参赛联合团队以及已报名并通过审核自由参赛联合团队提交符合设计任务书要求的设计成果文件，每家只允许提交一个竞赛方案；
 
-l  The 8 joint team shortlisted and the qualified independent joint teams shall only submit one conceptual design deliverable in line with the design brief;
+- The 8 joint team shortlisted and the qualified independent joint teams shall only submit one conceptual design deliverable in line with the design brief;
 
-l  主办方依法组建方案评审委员会，对参赛方案进行评审。方案评审委员会采用记名投票法，选出3家参赛联合团队（有排序，但不作为最终结果）进入第三阶段-审定及优化阶段。
+- 主办方依法组建方案评审委员会，对参赛方案进行评审。方案评审委员会采用记名投票法，选出3家参赛联合团队（有排序，但不作为最终结果）进入第三阶段-审定及优化阶段。
 
-l  The host shall establish a review committee in accordance with the law to review the Schemes. The review committee shall select 3 joint teams (ranked, but not as the final result) through open vote (elimination by round) to enter the third stage -determination and optimization.
+- The host shall establish a review committee in accordance with the law to review the Schemes. The review committee shall select 3 joint teams (ranked, but not as the final result) through open vote (elimination by round) to enter the third stage -determination and optimization.
 
  
 
@@ -47,7 +47,7 @@ The host shall set up a review committee to review the results and select the wi
 
  
 
-## 2报名及资质要求 Requirements
+## 2 报名及资质要求 Requirements
 
 （1）参赛联合团队须是注册的企业或机构。
 
@@ -71,9 +71,11 @@ The host shall set up a review committee to review the results and select the wi
 
  
 
-## 3竞赛奖金 Competition Bonus
+## 3 竞赛奖金 Competition Bonus
 
-### 概念方案及审定阶段奖金Bonus for the Conceptual design and optimization stage：
+### 概念方案及审定阶段奖金
+
+### Bonus for the Conceptual design and optimization stage
 
 （1） 第一名联合团队获得230万元人民币（含方案优化费用）
 
@@ -93,16 +95,16 @@ Note: Bonus for this stage do not include bonus for the brief Scheme submission 
 
 ## 4竞赛日程 Competition Agenda
 
-| **阶段Stage**                                              | **时间Time**                                         | **事项Item**                                                 |
-| ---------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
-| **概念方案阶段*Conceptual design stage**                | 2021.04.25（暂定/Tentative）                         | 发布正式竞赛文件及设计任务书release Official Competition Document and Design Brief |
-|                                                            | 2021.04.27（暂定/Tentative）                         | 踏勘答疑会（组织形式另行通知）Site Survey and Q & A Meeting (form to be notified) |
-|                                                            | 2021.04.30（暂定/Tentative）                         | 质疑截止（电子邮件形式）Query Deadline (via Email)           |
-|                                                            | 2021.05.07（暂定/Tentative）                         | 书面答疑（电子邮件形式）Clarification Period Deadline (via Email) |
-|                                                            | 2021.06.07（15:00前/Before 15:00）（暂定/Tentative） | 入围联合团队递交成果文件Design Competition deliverables submission Deadline |
-|                                                            | 2021.06.08-06.10（暂定/Tentative）                   | 方案评审（暗标）及结果公示Scheme review (closed bid) and result publicity |
-| **审定及优化阶段*Determination and optimization stage** | 2021.06.（待定/Tentative）                           | 审定方案及结果公示Notice of scheme development review result |
-|                                                            | 2021.06（待定/Tentative）                            | 方案优化Scheme optimization                                  |
+| **阶段 Stage**                                          | **时间 Date**                                        | **事项 Item**                                                |
+| ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
+| **概念方案阶段 Conceptual design stage**                | 2021.04.25（暂定/Tentative）                         | 发布正式竞赛文件及设计任务书release Official Competition Document and Design Brief |
+|                                                         | 2021.04.27（暂定/Tentative）                         | 踏勘答疑会（组织形式另行通知）Site Survey and Q & A Meeting (form to be notified) |
+|                                                         | 2021.04.30（暂定/Tentative）                         | 质疑截止（电子邮件形式）Query Deadline (via Email)           |
+|                                                         | 2021.05.07（暂定/Tentative）                         | 书面答疑（电子邮件形式）Clarification Period Deadline (via Email) |
+|                                                         | 2021.06.07（15:00前/Before 15:00）（暂定/Tentative） | 入围联合团队递交成果文件Design Competition deliverables submission Deadline |
+|                                                         | 2021.06.08-06.10（暂定/Tentative）                   | 方案评审（暗标）及结果公示Scheme review (closed bid) and result publicity |
+| **审定及优化阶段 Determination and optimization stage** | 2021.06.（待定/Tentative）                           | 审定方案及结果公示Notice of scheme development review result |
+|                                                         | 2021.06（待定/Tentative）                            | 方案优化Scheme optimization                                  |
 
 注/ Note:
 
@@ -118,7 +120,7 @@ Note: Bonus for this stage do not include bonus for the brief Scheme submission 
 
  
 
-## 5赛事组织 Organizers
+## 5 赛事组织 Organizers
 
 （1） 主办方 Host
 
@@ -156,41 +158,51 @@ FuturePlus Academy
 
 联系方式：
 
-蔡工13590410014  符工 13923439321
+蔡工13590410014  
 
-Enquiry Tel：Mrs Cai: +86 13590410014  Mr. Fu: +86 13923439321
+符工 13923439321
+
+Enquiry Tel：
+
+Mrs Cai: +86 13590410014  
+
+Mr. Fu: +86 13923439321
 
 （北京时间周一至周五9:00-12:00,14:00-18:00） 
 
-Consultation time: Monday to Friday, Beijing time, 9:00-12:00,14:00-18:00
+Consultation time: 
+
+Monday to Friday, Beijing time, 9:00-12:00,14:00-18:00
 
  
 
 咨询邮箱Enquiry E-mail：
 
-caixiaoling@futureplus.net.cn / fumingwei@futureplus.net.cn
+caixiaoling@futureplus.net.cn
+
+fumingwei@futureplus.net.cn
 
  
 
-## 6信息发布 Announcement
+## 6 信息发布 Announcement
 
 （1）下载附件 Appendixes Download
 
-l 《概念方案阶段设计任务书》
+- 《概念方案阶段设计任务书》
 
-l 用地信息图（CAD格式）
+- 用地信息图（CAD格式）
 
-l 场地航拍视频
+- 场地航拍视频
 
-l 场地红线与蓝线叠加图
+- 场地红线与蓝线叠加图
 
-l Design Brief at the Conceptual Scheme Stage
+- Design Brief at the Conceptual Scheme Stage
 
-l Land Information Graphic (in CAD Format)
+- Land Information Graphic (in CAD Format)
 
-l Site aerial video link
+- Site aerial video link
 
-l Superimposed map of the red and blue lines of the venue
+- Superimposed map of the red and blue lines of the venue
 
  
 
@@ -200,7 +212,7 @@ https://pan.baidu.com/s/1UsG2N8y2KLYmfcJkyAiozg
 
 提取码 Password
 
-fyau
+`fyau`
 
 
 
@@ -209,5 +221,3 @@ fyau
 ※ 主办方对本次国际竞赛规则拥有最终解释权，解释语言以中文为准。
 
 ※The host reserves the right for the interpretation of the Competition Document, with the language of interpretation subjected to Chinese.
-
- 
