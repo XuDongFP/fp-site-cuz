@@ -15,11 +15,11 @@ draft: flase
 
 ## 1竞赛流程 Competition Process
 
-入围简案阶段*Brief Scheme Submission Stage (已结束)
+入围简案阶段 Brief Scheme Submission Stage (已结束)
 
  
 
-概念方案阶段Conceptual*Design*Stage
+概念方案阶段Conceptual Design Stage
 
 在确定的任务书及城市设计指引下，提出建筑概念设计方案供评选。概念方案阶段竞赛仍保持公开，接受自由参赛联合团队继续报名，已报名并通过审核的自由参赛联合团队方可参加概念方案阶段。（自由参赛联合团队不获得入围简案阶段奖金）。
 
@@ -39,7 +39,7 @@ l  The host shall establish a review committee in accordance with the law to rev
 
  
 
-审定及优化阶段*Determination and Optimization Stage
+审定及优化阶段 Determination and Optimization Stage
 
 主办方组建审定委员会审定竞赛评选结果，确认第一名优胜方案。第一名方案优胜联合团队后续需根据各方意见进行优化。
 
@@ -83,7 +83,7 @@ The host shall set up a review committee to review the results and select the wi
 
 (1) The joint team of the first place, with bonus of 2.3 million RMB (including the cost of scheme optimization).
 
-(2) The joint team of the second and third place, with bonus of 7 million RMB each.
+(2) The joint team of the second and third place, with bonus of 7 hundred thousand RMB each.
 
 Note: Bonus for this stage do not include bonus for the brief Scheme submission stage.
 
